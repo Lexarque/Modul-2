@@ -1,0 +1,19 @@
+C. Output
+Penumpang bus sekarang adalah : 5
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 10
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 8
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 16
+Penumpang maksimum seharusnya adalah : 15
+
+
+D. Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang
+maksimum. Mengapa bisa demikian?
+
+karena variabel yang diubah pada class Bus hanya lah variabel penumpang karena itu lah hingga akhir
+program nilai variabel yang berubah hanya lah variabel penumpang

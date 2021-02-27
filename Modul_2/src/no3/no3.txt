@@ -1,0 +1,4 @@
+C. Output
+Siswa : Julian
+Absen : 23
+Address : Malang

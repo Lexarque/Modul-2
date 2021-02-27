@@ -1,0 +1,37 @@
+B. Jalankan file UjiBus.java Keluaran program adalah
+
+Penumpang bus sekarang adalah : 5
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 10
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 8
+Penumpang maksimum seharusnya adalah : 15
+
+Penumpang bus sekarang adalah : 16
+Penumpang maksimum seharusnya adalah : 15
+
+C. Berikan penjelasan point b!
+
+Output pada class UjiBus sama seperti class UjiBus pada soal / package sebelumnya, karena variabel dari class
+Bus yang baru belum di deklarasi kan pada method UjiBus, karena itu lah hasil output kedua class tersebut
+sama
+
+
+E. Output dari UjiBus yang baru
+
+Penumpang bus sekarang adalah : 0
+Penumpang maksimum seharusnya adalah : 40
+
+Penumpang bus sekarang adalah : 15
+Penumpang maksimum seharusnya adalah : 40
+
+Penumpang bus sekarang adalah : 20
+Penumpang maksimum seharusnya adalah : 40
+
+Penumpang melebihi quota
+Penumpang bus sekarang adalah : 20
+Penumpang maksimum seharusnya adalah : 40
+
+

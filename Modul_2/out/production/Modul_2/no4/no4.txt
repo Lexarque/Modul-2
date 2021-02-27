@@ -1,0 +1,23 @@
+B. Output Program tersebut adalah
+
+Password salah
+Password benar
+penumpang bus sekarang : 0
+Maximum penumpang yang seharusnya adalah : 5
+penumpang bus sekarang : 2
+Maximum penumpang yang seharusnya adalah : 5
+penumpang bus sekarang : 3
+Maximum penumpang yang seharusnya adalah : 5
+penumpang bus sekarang : 5
+Maximum penumpang yang seharusnya adalah : 5
+Penumpang melebihi quota
+penumpang bus sekarang : 5
+Maximum penumpang yang seharusnya adalah : 5
+
+C. Penjelasan Program tersebut adalah
+
+Pada line 8 & 9 memanggil method getpenumpang untuk mengecek apakah password tersebut benar atau salah,
+lalu pada line 12 - 23 menggunakan memamnggil method addPenumpang dan cetakPenumpang untuk menambahkan
+penumpang dan mengecek apakah penumpang melebihi max penumpang atau tidak, jika tidak maka penumpang akan
+ditambahkan dan jika jumlah penumpang sudah sesuai atau sama dengan maxPenumpang maka akan di print
+"Penumpang melebihi quota" dan penumpang tidak akan ditambahkan
